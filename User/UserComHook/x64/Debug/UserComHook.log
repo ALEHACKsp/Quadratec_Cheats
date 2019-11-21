@@ -1,0 +1,103 @@
+﻿  main.cpp
+E:\Quadratec\User\UserComHook\main.cpp(6,6): error C2039: 'atomic_bool': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(24): message : see declaration of 'std'
+E:\Quadratec\User\UserComHook\main.cpp(6,28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Quadratec\User\UserComHook\main.cpp(6,18): error C2146: syntax error: missing ';' before identifier 'silent_aim'
+E:\Quadratec\User\UserComHook\main.cpp(7,6): error C2039: 'atomic_bool': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(24): message : see declaration of 'std'
+E:\Quadratec\User\UserComHook\main.cpp(7,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Quadratec\User\UserComHook\main.cpp(7,27): error C2086: 'int atomic_bool': redefinition
+E:\Quadratec\User\UserComHook\main.cpp(6): message : see declaration of 'atomic_bool'
+E:\Quadratec\User\UserComHook\main.cpp(7,18): error C2146: syntax error: missing ';' before identifier 'aimbot_on'
+E:\Quadratec\User\UserComHook\main.cpp(62,2): error C2065: 'PID': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(62,8): error C3861: 'GetProcessID': identifier not found
+E:\Quadratec\User\UserComHook\main.cpp(63,15): error C3861: 'GetModuleBaseAddr': identifier not found
+E:\Quadratec\User\UserComHook\main.cpp(69,2): error C2065: 'RainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(69,13): error C2146: syntax error: missing ';' before identifier 'rainbowSix'
+E:\Quadratec\User\UserComHook\main.cpp(69,13): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(70,24): error C2653: 'RainbowSix': is not a class or namespace name
+E:\Quadratec\User\UserComHook\main.cpp(70,14): error C3861: 'RainbowSix': identifier not found
+E:\Quadratec\User\UserComHook\main.cpp(104,2): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(105,2): error C2065: 'Vector2': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(105,10): error C2146: syntax error: missing ';' before identifier 'GlowDistance'
+E:\Quadratec\User\UserComHook\main.cpp(105,10): error C2065: 'GlowDistance': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(105,25): error C3861: 'Vector2': identifier not found
+E:\Quadratec\User\UserComHook\main.cpp(106,2): error C2065: 'Vector3': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(106,10): error C2146: syntax error: missing ';' before identifier 'GlowColours'
+E:\Quadratec\User\UserComHook\main.cpp(106,10): error C2065: 'GlowColours': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(106,24): error C3861: 'Vector3': identifier not found
+E:\Quadratec\User\UserComHook\main.cpp(119,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(119,21): error C2065: 'GlowColours': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(119,38): error C2065: 'GlowDistance': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(128,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(128,21): error C2065: 'GlowColours': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(128,39): error C2065: 'GlowDistance': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(143,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(152,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(167,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(176,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(191,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(200,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(215,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(224,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(238,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(247,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(261,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(271,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(285,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(293,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(307,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(315,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(329,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(336,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(337,5): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(345,4): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(358,4): error C2065: 'aimbot_on': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(358,21): error C2065: 'aimbot_on': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(359,33): error C2065: 'aimbot_on': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(359,16): warning C4473: 'printf' : not enough arguments passed for format string
+E:\Quadratec\User\UserComHook\main.cpp(359,16): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+E:\Quadratec\User\UserComHook\main.cpp(359,16): message : the missing variadic argument 1 is required by format string '%s'
+E:\Quadratec\User\UserComHook\main.cpp(365,39): error C2065: 'aimbot_on': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(369,35): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(372,14): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(377,17): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(377,38): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(377,72): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(377,97): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(379,4): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(379,29): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(379,60): error C2065: 'silent_aim': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(379,94): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(379,131): error C3536: 'angle': cannot be used before it is initialized
+E:\Quadratec\User\UserComHook\main.cpp(386,3): error C2065: 'rainbowSix': undeclared identifier
+  RainbowSix.cpp
+E:\Quadratec\User\UserComHook\main.cpp(386,32): error C2065: 'rainbowSix': undeclared identifier
+E:\Quadratec\User\UserComHook\main.cpp(386,32): error C2065: string_view is only available with C++17 or later.
+E:\Quadratec\User\UserComHook\MemoryFunctions.h(31,17): error C7525: inline variables require at least '/std:c++17'
+E:\Quadratec\User\UserComHook\MemoryFunctions.h(47,40): error C2039: 'string_view': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(24): message : see declaration of 'std'
+E:\Quadratec\User\UserComHook\MemoryFunctions.h(47,52): error C2065: 'string_view': undeclared identifier
+E:\Quadratec\User\UserComHook\MemoryFunctions.h(47,52): error C2146: syntax error: missing ')' before identifier 'process_name'
+E:\Quadratec\User\UserComHook\MemoryFunctions.h(47,66): error C2143: syntax error: missing ';' before '{'
+E:\Quadratec\User\UserComHook\MemoryFunctions.h(47,66): error C2447: '{': missing function header (old-style formal list?)
+E:\Quadratec\User\UserComHook\RainbowSix.h(39,7): error C2039: 'byte': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\atomic(130): message : see declaration of 'std'
+E:\Quadratec\User\UserComHook\RainbowSix.h(96,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Quadratec\User\UserComHook\RainbowSix.h(97,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(20,8): error C3861: 'GetProcessID': identifier not found
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(258,18): error C2039: 'all_unlocks': is not a member of 'RainbowSix'
+E:\Quadratec\User\UserComHook\RainbowSix.h(10): message : see declaration of 'RainbowSix'
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(276,21): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(278,5): error C3536: 'instruction': cannot be used before it is initialized
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(326,18): error C2039: 'cav': is not a member of 'RainbowSix'
+E:\Quadratec\User\UserComHook\RainbowSix.h(10): message : see declaration of 'RainbowSix'
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(330,42): error C2065: 'gameManager': undeclared identifier
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(331,33): error C2065: 'gameManager': undeclared identifier
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(588,6): error C2039: 'byte': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(24): message : see declaration of 'std'
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(591,7): error C2039: 'byte': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(24): message : see declaration of 'std'
+E:\Quadratec\User\UserComHook\RainbowSix.cpp(591,33): error C2039: 'byte': is not a member of 'std'
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\thread(24): message : see declaration of 'std'
